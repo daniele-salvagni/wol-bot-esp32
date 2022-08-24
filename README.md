@@ -9,14 +9,14 @@
 
 </div>
 
-## Installation
+##⚡Installation
 - Install the missing libraries
 - Create a new Telegram bot and fill your `BOT_TOKEN` and `ALLOWED_ID`  
   _You can use @Botfather to create a new bot and @userinfobot to get your ID_
 - Fill your WiFi configuration and the MAC address of the PC you want to power on
 - Compile and flash
 
-## Usage
+## 📄 Usage
 
 - Use the `/wol` command to turn on your PC
 - Use the `/ping` command to check if the bot is online
