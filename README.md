@@ -9,7 +9,7 @@
 
 </div>
 
-##⚡Installation
+## ⚡Installation
 - Install the missing libraries
 - Create a new Telegram bot and fill your `BOT_TOKEN` and `ALLOWED_ID`  
   _You can use @Botfather to create a new bot and @userinfobot to get your ID_
