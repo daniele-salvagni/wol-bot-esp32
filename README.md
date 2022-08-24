@@ -1,8 +1,8 @@
 <div align="center">
 
-# Wake on Lan - ESP32 Telegram Bot
+# 🤖 Wake on Lan - ESP32 Telegram Bot
 
-🤖 An embedded telegram bot for M5Atom to send a WOL packet on the local network to power on a PC.
+An embedded telegram bot for M5Atom to send a WOL packet on the local network to power on a PC.
   
 ![image](https://user-images.githubusercontent.com/6751621/186376085-caa39541-182e-44fb-b51b-762e792369a1.png)
 
