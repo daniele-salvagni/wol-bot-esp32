@@ -30,3 +30,9 @@ This is a sketch for the **M5Atom** ESP32 board. A telegram bot is hosted on the
 - Use `/start` to get a list of the available commands
 - Use the `/wol` command or press the physical button to turn on your PC
 - Use the `/ping` command to check if the bot is online
+
+## ✅ TODO List
+
+- [ ] Refactor code
+- [ ] Store network configuration in EEPROM
+- [ ] Add configuration commands to Telegram bot
