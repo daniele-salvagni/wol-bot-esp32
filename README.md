@@ -8,7 +8,7 @@ _An embedded telegram bot for M5Atom to send a WOL packet on the local network._
 
 </div>
 
-## ⚡ Description
+## 📄 Description
 This is a sketch for the **M5Atom** ESP32 board. A telegram bot is hosted on the board and listens for messages, when the `/wol` command is received a Wake-on-Lan magic packet is broadcasted on the local network in order to turn on a target device.
 
 🪙 You can keep it running for about **1$** in electricity per year, the power consumption is less than half a watt.
