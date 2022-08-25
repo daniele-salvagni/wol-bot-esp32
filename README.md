@@ -5,7 +5,7 @@
 _An embedded telegram bot for M5Atom to send a WOL packet on the local network._  
 _Blog post with more info: https://dan.salvagni.io/b/embedded-telegram-bot-for-wake-on-lan-pc/_
 
-![Wake-on-Lan Telegram Bot](https://user-images.githubusercontent.com/6751621/186768682-c2f93451-0ac0-4df5-b549-1c00f8fbc918.png)
+![Wake-on-Lan Telegram Bot](https://user-images.githubusercontent.com/6751621/186778280-31f02a80-b113-4bbb-a5c2-eb89dbb4cd9d.png)
 
 </div>
 
